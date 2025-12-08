@@ -1,5 +1,6 @@
 # Australian Aged Care Contact Matrix
-
+This is accompanied code assosciated with:
+Stone, H., MacIntyre, C. R., Kunasekaran, M., Poulos, C., & Heslop, D. (2025). Generating a Contact Matrix for Aged Care Settings in Australia: an agent-based model study. arXiv preprint arXiv:2512.03866.
 ## Overview
 The model simulates staff–resident interactions in a synthetic aged care facility. It generates proximity-based contact events across:
   - Residents: high care, medium care, and low care categories
@@ -10,7 +11,7 @@ A contact event is defined as two agents being within:
   - 3.0 m,
   for a duration of ≥ 3 seconds.
 
-The primary purpose of the model is to generate empirically grounded contact matrices that reflect heterogeneity in resident care needs and staff shift structures. These contact matrices are used for epidemiological and transmission modelling.
+The primary purpose of the model is to generate empirically grounded contact matrices that reflect heterogeneity in resident care needs and staff shift structures. These contact matrices are used for epidemiological and transmission modelling. 
 
 <p align="center">
   <img src="assets/Visual Pipeline ABM.jpeg" alt="framework" width="760">
