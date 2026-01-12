@@ -1,6 +1,5 @@
 # Australian Aged Care Contact Matrix
-This is accompanied code assosciated with:
-Stone, H., MacIntyre, C. R., Kunasekaran, M., Poulos, C., & Heslop, D. (2025). Generating a Contact Matrix for Aged Care Settings in Australia: an agent-based model study. arXiv preprint arXiv:2512.03866.
+
 ## Overview
 The model simulates staff–resident interactions in a synthetic aged care facility. It generates proximity-based contact events across:
   - Residents: high care, medium care, and low care categories
